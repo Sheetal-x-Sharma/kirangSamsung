@@ -1,3 +1,4 @@
+
 // use this only for n<=20
 // use the bitset approach otherwise
 #include <bits/stdc++.h>
@@ -116,3 +117,4 @@ public:
     }
 };
 */
+
