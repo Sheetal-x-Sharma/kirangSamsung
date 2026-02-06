@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <map>
 #include <string>
@@ -38,4 +39,5 @@ For eg, input: BBRRBRBRBRBBR
 //  try this
 Length of string - (longest length of subarray with equal no of “A” and ‘B’) 
 /*
+
 */
