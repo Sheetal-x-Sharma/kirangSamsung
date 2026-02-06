@@ -1,3 +1,4 @@
+
 /*
 There are a total of N cargoes. The weight of the ith cargo is given as L[i]. (0<=i<N).
 There is a compartment A and B on the left and right side of the airplane, respectively.
@@ -46,3 +47,4 @@ int main()
     cout << "Minimum difference: " << abs(total - 2 * best) << endl;
     return 0;
 }
+
