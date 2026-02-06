@@ -1,3 +1,4 @@
+
 // Given an array where each index i contains garbage value.
 
 // - Deploying a robot at any index costs 'm'.
@@ -45,4 +46,5 @@ int main() {
     if(dp[in][l]!=-1)return dp[in][l];
     dp[in][l]=min((ll)m+solve(in+1,in),(in-l)*A[in]+solve(in+1,l));
     return dp[in][l];
+
 */
