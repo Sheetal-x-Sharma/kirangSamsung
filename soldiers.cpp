@@ -1,3 +1,4 @@
+
 /*
     each node of the tree represents a military unit. We are given the no. of soldiers in each     unit.
     we need to balance the tree such that
@@ -80,3 +81,4 @@ int main() {
     cout << finalSum << endl;
     return 0;
 }
+
