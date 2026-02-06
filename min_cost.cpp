@@ -1,3 +1,4 @@
+
 // https://codeforces.com/blog/entry/63962
 /*
 Given a tree with n vertices, where each vertex has a number ai written on it. 
@@ -89,3 +90,4 @@ int32_t main()
  
     return 0;
 }
+
