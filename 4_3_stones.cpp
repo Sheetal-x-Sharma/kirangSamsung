@@ -1,3 +1,4 @@
+
 /*Q3. There's a cost of removing stone, the cost is different if it has one neighbour,
  two neighbours and it's zero if no neighbour.
 Within a given sequence of stones, find minimum cost to remove all of them.
@@ -50,3 +51,4 @@ int main() {
     cout << min_removal_cost(n, a, b) << endl;
     return 0;
 }
+
