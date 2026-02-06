@@ -1,3 +1,4 @@
+
 // Problem Statement:
 // A company issues gift certificates with unique serial numbers (numeric only).
 // The digit sum of all serial numbers issued on the same day is S.
@@ -125,4 +126,5 @@ int main(){
     int ans = helper(0, 0, 1, dp);
     cout<<ans<<endl;
     return 0;
+
 }*/
