@@ -1,4 +1,5 @@
 
+
 /*Q2. Given N tiles of given width and height, 
 we have to select K out of it, we need to minimise 
 the maximum of the difference between any two tiles selected,
@@ -163,3 +164,4 @@ int main()
 }
 
  */
+
