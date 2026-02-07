@@ -1,4 +1,5 @@
 
+
 /*
 Q2. 
 2 arrays given
@@ -100,5 +101,6 @@ int main(){
     return 0;
 }
 */
+
 
 
