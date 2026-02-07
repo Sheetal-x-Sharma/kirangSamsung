@@ -1,4 +1,5 @@
 
+
 // given in 2025 pro test1
 
 #include <bits/stdc++.h>
@@ -68,4 +69,5 @@ After that, you can choose any one good, and export it, making its stock 0. Befo
 
 Your task is to find the minimum number of days required to make the total stock of all items <= K, where K is given.
 */
+
 
