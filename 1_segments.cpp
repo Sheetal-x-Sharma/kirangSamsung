@@ -1,4 +1,5 @@
 
+
 /*
 Test - 1
 You are given a path on an infinite 2d lattice. The path consists of line segments parallel to either the x or y axis. VVA
@@ -131,4 +132,5 @@ int main() {
    
     return 0;
 }
+
 
