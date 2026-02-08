@@ -1,4 +1,5 @@
 
+
 // Problem Statement:
 // A company issues gift certificates with unique serial numbers (numeric only).
 // The digit sum of all serial numbers issued on the same day is S.
@@ -128,3 +129,4 @@ int main(){
     return 0;
 
 }*/
+
